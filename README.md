@@ -10,3 +10,5 @@ git log
 
 
 git branch
+
+git push origin master
