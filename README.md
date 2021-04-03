@@ -3,8 +3,8 @@ MEU README
 git status
 git add -A
 git commit -m "mensagem aqui..."
-git log
+git push origin master
 
 git branch
+git log
 
-git push origin master
